@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-android-app-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Hendro Steven",
+  "license": "MIT",
+  "homepage" : "https://github.com/hendrosteven/react-native-android-app-list",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
